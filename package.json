@@ -1,0 +1,24 @@
+{
+  "name": "gentlerain-ai-gc-main",
+  "version": "1.0.0",
+  "description": "This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai), a visually stunning and user-centric website that earned recognition on Awwwards for its design excellence. The goal of this project is to recreate the aesthetic, functionality, and interactivity of the original site, serving as a learning exercise in advanced web development and design principles.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.2.6"
+  }
+}
