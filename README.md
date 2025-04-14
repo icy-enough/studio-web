@@ -1,11 +1,9 @@
 # Gentlerain.ai Clone 
 
-## 🌟 Overview
-
 This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai)
 
 
-## 🚀 Features
+## Features
 
 - **Dynamic Animations:** Smooth transitions and captivating animations using modern libraries such as GSAP and Lenis.
 - **Canvas Elements:** Interactive visuals crafted with HTML5 Canvas for a rich user experience.
@@ -14,7 +12,7 @@ This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai)
 - **Optimized Performance:** Lightweight and fast-loading pages to ensure an excellent user experience.
 - **Customizable Components:** Modular and reusable code for easy updates and scalability.
 
-## 💡 Technologies Used
+## Technologies Used
 
 - **Frontend Frameworks:** HTML5, CSS3, JavaScript (ES6+)
 - **Animation Libraries:** GSAP, Lenis, ScrollTrigger
@@ -23,7 +21,7 @@ This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai)
 - **Version Control:** Git
 - **Deployment:** GitHub Pages
 
-## 🎯 Purpose
+## Purpose
 
 - Advanced CSS techniques for modern web layouts
 - Mastery of JavaScript animations and event handling
@@ -31,7 +29,7 @@ This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai)
 - Crafting responsive and interactive designs
 - Following best practices for clean, maintainable code
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 1. Clone the repository:
    ```bash
@@ -43,20 +41,13 @@ This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai)
    ```
 3. Open with Live Server to view the output.
 
-## 🔧 Development Notes
+## Development Notes
 
 - **Code Structure:**
   - `src/`: Contains all source files including HTML, CSS, and JavaScript.
 
-## 🎨 Screenshots
 
-![image](https://github.com/user-attachments/assets/3df000dc-27ed-4644-a569-2928aa11b702)
-![image](https://github.com/user-attachments/assets/ece3fb9e-84fb-4d85-a3b6-08e3651bd973)
-![image](https://github.com/user-attachments/assets/a4265087-4218-4c00-a6ce-4004839d9452)
-![image](https://github.com/user-attachments/assets/06725677-a57b-4d71-ba6b-2361399e81e3)
-
-
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
