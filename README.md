@@ -1,11 +1,9 @@
-# Gentlerain.ai Clone (Awwwards Project)
+# Gentlerain.ai Clone 
 
 ## 🌟 Overview
 
-This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai), a visually stunning and user-centric website that earned recognition on Awwwards for its design excellence. The goal of this project is to recreate the aesthetic, functionality, and interactivity of the original site, serving as a learning exercise in advanced web development and design principles.
+This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai)
 
-## 👀 Watch Tutorial 👇
-[![Gravity Coding](https://i9.ytimg.com/vi/V6BAPqVWO8s/mqdefault.jpg?v=677cfedf&sqp=CPjRibwG&rs=AOn4CLCX18C9UWFkl5RDz8zA2uxbzcTuyw)](https://youtu.be/V6BAPqVWO8s?si=JDsychz5eeoMWltn)
 
 ## 🚀 Features
 
@@ -27,15 +25,11 @@ This project is a pixel-perfect clone of [Gentlerain.ai](https://gentlerain.ai),
 
 ## 🎯 Purpose
 
-The Gentlerain.ai Clone project demonstrates skills in:
-
 - Advanced CSS techniques for modern web layouts
 - Mastery of JavaScript animations and event handling
 - Utilizing HTML5 Canvas for custom visuals
 - Crafting responsive and interactive designs
 - Following best practices for clean, maintainable code
-
-This project serves as an excellent portfolio piece, showcasing expertise in replicating award-winning designs and attention to detail.
 
 ## 🛠️ Setup & Installation
 
@@ -62,28 +56,7 @@ This project serves as an excellent portfolio piece, showcasing expertise in rep
 ![image](https://github.com/user-attachments/assets/06725677-a57b-4d71-ba6b-2361399e81e3)
 
 
-## 🌍 Live Demo
-
-Check out the live version of the project: [Gentlerain.ai Clone](https://thesiyhbrand.github.io/gentlerain-ai-gc/)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to collaborate, please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 💬 Feedback
-
-If you have any feedback or suggestions, please open an issue or reach out via [email](mailto:amarjeet@gravitycoding.com).
-
----
-
-⭐ **Thank you for visiting this project! Feel free to explore and use it as a learning resource.**
